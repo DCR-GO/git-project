@@ -1,0 +1,1 @@
+print("Ini file kedua")
